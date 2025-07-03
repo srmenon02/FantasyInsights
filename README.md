@@ -75,7 +75,7 @@ seaborn>=0.11.2
 streamlit>=1.14.0
 
 ---
-### MIT License
+### ✅ MIT License
 
 Copyright (c) 2025 Suraj Menon
 
